@@ -1,9 +1,9 @@
-Project TlsScan
+Project Certificate Scan
 
 
 Introduction
 
-TlsScan is a micro-service that execute a command in Script Shell of TestSsl, with objective to check the URL and server's service TLS/SSL ciphers, protocols as well as some cryptographic flaws.
+Scan is a micro-service that execute a command in Script Shell of TestSsl, with objective to check the URL and server's service TLS/SSL ciphers, protocols as well as some cryptographic flaws.
 Endpoints created
 
 CreateScan: Allow user to input parameters (hostname,optionsSetting,protocols,priority,ignoreCache,protocol,port and scanningType) that will define how the hostname will be scanned.
